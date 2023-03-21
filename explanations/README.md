@@ -2,3 +2,4 @@
 
 - [The & operator](./explanations/bitwise_and.md)
 - [The | operator](./explanations/bitwise_or.md)
+- [The ^ operator](./explanations/bitwise_xor.md)
